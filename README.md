@@ -126,7 +126,4 @@ every other module is a plain function/class library it calls into.
 └── README.md
 ```
 
-## Author
 
-Aynur Rzayeva-Karabulut · Matriculation No. UPS10746239 · IU Internationale
-Hochschule
