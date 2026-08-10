@@ -1,13 +1,8 @@
 # Stock Trading Habit Tracker
 
-A command-line habit-tracking backend for stock traders, built for the IU
-course **DLBDSOOFPP01 – Object-Oriented & Functional Programming with
-Python**.
-
-The app lets a user define daily or weekly trading-related habits (e.g.
-*"Check Portfolio"*), check them off, edit or delete them, and analyse
-their consistency — current streaks, longest streaks ever achieved, and
-which habits are currently broken.
+The app lets users define daily or weekly trading-related habits (e.g.
+'Check Portfolio', for example), and then check them off, edit or delete them, and analyse their consistency. 
+This includes information such as current streaks, longest streaks ever achieved, and which habits are currently broken.
 
 ## Features
 
