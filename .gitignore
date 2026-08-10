@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# User-generated data (created at runtime, not part of the source)
+habits.json
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
