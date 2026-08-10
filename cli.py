@@ -5,7 +5,6 @@ from analytics import get_habits_by_period, get_longest_streak_all, get_longest_
 
 
 def show_menu():
-    """Print the main menu to the screen."""
     print("\n" + "=" * 50)
     print("   \U0001F4C8  STOCK TRADING HABIT TRACKER")
     print("=" * 50)
